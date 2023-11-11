@@ -1,0 +1,11 @@
+
+/.vscode
+/API/.vs
+/API/bin
+/API/obj
+/API/appsettings.json
+/SPA/.parcel-cache
+/SPA/dist
+/SPA/node_modules
+/SPA/settings.js
+/SPA/package-lock.json
